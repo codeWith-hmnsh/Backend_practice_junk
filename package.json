@@ -1,0 +1,26 @@
+{
+  "name": "project_management",
+  "version": "1.0.0",
+  "description": "A project management application for beginner",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "udemy",
+    "course",
+    "API",
+    "backend"
+  ],
+  "author": "Hmnsh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "nodemon": "^3.1.11"
+  },
+  "devDependencies": {
+    "prettier": "3.8.1"
+  }
+}
